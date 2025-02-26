@@ -1,9 +1,9 @@
 # Moj_CSV2Excel
 登記ＣＳＶ（要約書ＣＳＶ）をＥｘｃｅｌデータに変換するツールです。
 
-Moj_CSV2Excel_Ver422.zipをダウンロードし、解凍してください。
+Moj_CSV2Excel_Ver423.zipをダウンロードし、解凍してください。
 
-https://github.com/office-shirado/Moj_CSV2Excel/blob/main/Touki_CSV_Edit_Ver_422.zip
+https://github.com/office-shirado/Moj_CSV2Excel/blob/main/Touki_CSV_Edit_Ver_423.zip
 
 ※登記CSV台帳作成システム_Ver_422.xlsmというマクロ有効Excelブックが解凍されます。
 
